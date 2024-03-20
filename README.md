@@ -1,1 +1,1 @@
-Zadania z javy i javascript na studia
+Zadania z javy na studia
